@@ -1,4 +1,5 @@
 # 💡 ChatGPT Prompt Engineering for Developers
+<img width="2241" height="1278" alt="learn deeplearning ai_courses_chatgpt-prompt-eng_lesson_dfbds_introduction (1)" src="https://github.com/user-attachments/assets/09352707-10f2-47b8-a74f-d12cf7cb9fd7" />
 
 ✨ **Beginner • ⏱️ 1 Hour 30 Minutes • 🎥 9 Video Lessons • 💻 7 Code Examples**  
 👩‍🏫 Instructors: **Isa Fulford**, **Andrew Ng**  
